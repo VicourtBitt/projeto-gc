@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# projeto-gc
+a
+=======
+>>>>>>> 051384f (doc: Readme)
 # Projeto Final GC24
 > Trilha Análise de Dados com Python
 
@@ -19,6 +26,10 @@ Problema:
 
 Cenário:
 • Utilizar os dados de índices de depressão, limpar as informações opcionais ou criar uma tabela com dummies do qual seja possível aplicar um modelo capaz de identificar possíveis casos de depressão previamente baseado na correlação das informações. 
+<<<<<<< HEAD
 
 ### Link Dataset:
 [Depression Survey Dataset](https://www.kaggle.com/datasets/sumansharmadataworld/depression-surveydataset-for-analysis/data)
+=======
+>>>>>>> 2bc7a8f (doc: Readme)
+>>>>>>> 051384f (doc: Readme)
