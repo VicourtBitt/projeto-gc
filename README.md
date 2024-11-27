@@ -19,3 +19,4 @@ Problema:
 
 Cenário:
 • Utilizar os dados de índices de depressão, limpar as informações opcionais ou criar uma tabela com dummies do qual seja possível aplicar um modelo capaz de identificar possíveis casos de depressão previamente baseado na correlação das informações. 
+
