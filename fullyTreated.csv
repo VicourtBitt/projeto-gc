@@ -1,0 +1,6 @@
+,gender,age,working_professional_or_student,profession,academic_pressure,work_pressure,study_satisfaction,job_satisfaction,sleep_duration,dietary_habits,degree,have_you_ever_had_suicidal_thoughts_?,work/study_hours,financial_stress,family_history_of_mental_illness,depression,general_pressure,general_satisfaction
+0,0,37,1,Teacher,0,2,0,4,4,0,1,0,6,2,0,0,2,4
+1,1,60,1,Financial Analyst,0,4,0,3,2,-1,0,1,0,4,1,0,4,3
+2,0,42,1,Teacher,0,2,0,3,2,0,1,0,0,2,0,0,2,3
+3,0,44,1,Teacher,0,3,0,5,4,1,1,1,1,2,1,0,3,5
+4,1,48,1,UX/UI Designer,0,4,0,3,4,0,0,1,6,5,1,0,4,3
